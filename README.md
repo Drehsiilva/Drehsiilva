@@ -1,4 +1,4 @@
-# Seu Nome
+# ANDRÉ AMÉRICO
 
 💻 Desenvolvedor Front-end Vibecode  
 📍 Brasil
